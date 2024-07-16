@@ -30,3 +30,7 @@ stages:
     - train.seed
     outs:
     - model.pkl
+artifacts:
+  model:
+    path: model.pkl
+    type: model
