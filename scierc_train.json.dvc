@@ -1,0 +1,5 @@
+outs:
+- md5: df6be720c49a744030dc1f22509c6de0
+  size: 1066966
+  hash: md5
+  path: scierc_train.json
